@@ -27,3 +27,11 @@ Web Stream Dev runs on all the plartforms below and many more besides, completel
  **Are you a company?** Do you need changes or additions to Web Stream Dev, or want it to run on your hardware?
  [Get in touch!](https://contact.webstream.dev/) we offer consultancy work, and can make builds for your device available on our website. 
  You can use Web Stream Dev on your hardware and support us, ensuring it gets better for everyone!
+
+
+---
++ [edit](https://github.com/web-stream/donate/edit/main/README.md)
+
+```
+https://github.com/web-stream/donate.git
+```
