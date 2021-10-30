@@ -1,5 +1,8 @@
 # Donate Web Stream Dev - [donate.webstream.dev](https://donate.webstream.dev)
 
++ [www.webstream.dev](https://www.webstream.dev/#/)
+
+
 ## Monthly
  
 [![logo_patreon](https://web-stream.github.io/donate/logo_patreon.png)](https://www.patreon.com/webstream)
@@ -20,7 +23,7 @@ We do not work full time on Web Stream Dev and we supported purely by [webstream
 
 Web Stream Dev runs on all the plartforms below and many more besides, completely free of charge.
 
-[patreon img](https://www.patreon.com/webstream)
+[patreon img](https://www.patreon.com/web-stream)
  
 Please help us keep it that way!
 
