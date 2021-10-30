@@ -4,13 +4,13 @@
 
 ## Monthly
  
-[![](https://donate.webstream.dev/logo_patreon.png)](https://www.patreon.com/webstream)
+[![logo_patreon](https://donate.github.io/logo_patreon.png)](https://www.patreon.com/webstream)
  
 Includes all kinds of extras!
  
 ## Once
  
-![](https://www.paypalobjects.com/en_GB/i/scr/pixel.gif)
+[![logo_paypal](https://donate.github.io/logo_paypal.png)](https://paypal.me/webstream)
 
  
 The Web Stream Dev software and hardware is [Open Source](https://github.com/webstream). 
