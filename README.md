@@ -1,4 +1,4 @@
-# Supporting Web Stream Dev - [donate.webstream.dev](https://donate.webstream.dev)
+# Donate Web Stream Dev - [donate.webstream.dev](https://donate.webstream.dev)
 
 ## Monthly
  
@@ -8,7 +8,7 @@ Includes all kinds of extras!
  
 ## Once
  
-[![logo_paypal](https://web-stream.github.io/donate/logo_paypal.png)](https://paypal.me/webstream)
+[![logo_paypal](https://web-stream.github.io/donate/logo_paypal.png)](https://paypal.me/softreck)
 
  
 The Web Stream Dev software and hardware is [Open Source](https://github.com/webstream). 
